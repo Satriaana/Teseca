@@ -20,6 +20,7 @@ The first significant factor of its popularity is the gentle learning curve. Itâ
 - Future-proof. 
 - Well-defined Ecosystem. 
 - Conclusion
+
 An active community backs the Vue.js framework; itâ€™s developer and user-friendly as well. Furthermore, it combines the best of Angular and React, making it a great competitor and deserves recognition as the top contender among other renowned frameworks.
 
 
