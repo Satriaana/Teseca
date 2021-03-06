@@ -11,6 +11,9 @@ Vue for our frontend
 Among the many JavaScript frameworks, Vue.js Frontend is the most popular when it comes to crafting better User Interface design. It is an MVVM or Model-View-ViewModel that is open-source for creating single-page apps and UIs. 
 The first significant factor of its popularity is the gentle learning curve. It’s flexible, lightweight, high performant, and modular, which is why it’s become a favorite in software development. It offers magnificent speed, to its wealth of plugins ready to use, it offers superb speed, which solves critical concerns in each app, enabling cost-effective and fast growth.
 
+We are hoping to use [MDBootstrap](https://mdbootstrap.com/education/vue/) alongside Vue.js.
+We've already installed MDBootstrap for your convenince.
+
 ## The small size of the application. 
 - Higher performance.
 - Learning Ease.
